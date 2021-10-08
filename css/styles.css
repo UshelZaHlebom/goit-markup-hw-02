@@ -1,0 +1,30 @@
+:root{
+    --header-color:#212121;
+    --description-color:#757575;
+    --hover-color: #2196f3;
+}
+
+body{
+
+}
+
+.stealth {
+    position: absolute;
+    white-space: nowrap;
+    width: 1px;
+    height: 1px;
+    overflow: hidden;
+    border: 0;
+    padding: 0;
+    clip: rect(0 0 0 0);
+    clip-path: inset(50%);
+    margin: -1px;
+}
+
+.nodots{
+    list-style: none;
+}
+
+.nounderline{
+    text-decoration: none;
+}
