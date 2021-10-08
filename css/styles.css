@@ -9,6 +9,7 @@
 
 body{
     font-family: "Roboto", sans-serif;
+    color: var(--header-color);
 }
 
 .stealth {
@@ -54,7 +55,6 @@ body{
     font-size: 14px;
     line-height: 1.14;
     letter-spacing: 0.02em;
-    color:var(--header-color);
 }
 
 .nav-panel-link:hover,
@@ -131,7 +131,6 @@ body{
     line-height: 1.14;
     letter-spacing: 0.03em;
     text-transform: uppercase;
-    color:var(--header-color)
 }
 
 .pros-description{
@@ -152,7 +151,6 @@ body{
     line-height: 1.16;
     text-align: center;
     letter-spacing: 0.03em;
-    color:var(--header-color)
 }
 
 /*index team*/
@@ -167,7 +165,6 @@ body{
     font-size: 16px;
     line-height: 1.18px;
     letter-spacing: 0.03em;
-    color:var(--header-color);
 }
 
 .team-list-item{
@@ -202,7 +199,6 @@ body{
     font-size: 18px;
     line-height: 2;
     letter-spacing: 0.06em;
-    color:var(--header-color)
 }
 
 .project-list-description{
