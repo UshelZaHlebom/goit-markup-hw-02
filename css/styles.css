@@ -83,7 +83,6 @@ body{
 }
 .footer-location{
     font-style: normal;
-    font-weight: 400;
     font-size: 14px;
     line-height: 1.71;
     letter-spacing: 0.03em;
@@ -92,7 +91,6 @@ body{
 
 .footer-contacts{
     font-style: normal;
-    font-weight: 400;
     font-size: 14px;
     line-height: 1.71;
     letter-spacing: 0.03em;
@@ -135,7 +133,6 @@ body{
 }
 
 .pros-description{
-    font-weight: 400;
     font-size: 14px;
     line-height: 1.71;
     letter-spacing: 0.03em;
@@ -169,7 +166,6 @@ body{
 }
 
 .team-list-item{
-    font-weight: 400;
     font-size: 16px;
     line-height: 1.18;
     letter-spacing: 0.03em;
@@ -203,7 +199,6 @@ body{
 }
 
 .project-list-description{
-    font-weight: 400;
     font-size: 16px;
     line-height: 1.87;
     letter-spacing: 0.03em;
