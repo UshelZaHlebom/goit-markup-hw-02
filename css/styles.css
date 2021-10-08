@@ -114,6 +114,7 @@ body{
     line-height: 1.8;
     color:var(--hub-color);
     background-color: var(--major-color);
+    cursor: pointer;
 }
 .hero-btn:hover,
 .hero-btn:focus{
@@ -184,6 +185,7 @@ body{
     background-color: #F5F4FA;
     border-radius: 4px;
     border-color: #ffffff;
+    cursor: pointer;
 }
 .filter-btn:hover,
 .filter-btn:focus{
