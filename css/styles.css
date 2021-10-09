@@ -74,6 +74,10 @@ body{
     color:var(--major-color);
 }
 
+.nav-panel-link.current{
+    color:var(--major-color);
+}
+
 .studio-footer{
     background-color: var(--background-filler-color);
 }
@@ -105,6 +109,9 @@ body{
     font-weight: 900;
     font-size: 44px;
     line-height: 1.36;
+    text-align: center;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
     color:var(--hub-color)
 }
 .hero-btn{
@@ -156,6 +163,14 @@ body{
 
 .team-section {
     background-color:palegoldenrod;
+}
+
+.team-header{
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 1.16;
+    text-align: center;
+    letter-spacing: 0.03em;
 }
 
 .team-list-header{
